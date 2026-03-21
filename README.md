@@ -3,7 +3,7 @@
 
  Save the files in a folder and open the file "index.html" in your browser.
 
- Video on [YouTube](https://youtu.be/yd9mKIItM08)
+ Try out the Calculator here [LaunchFree.netlify.app](https://launchfree.netlify.app/sites/calculator/calculator.html)
 
 Preview
 
